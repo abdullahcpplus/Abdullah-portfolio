@@ -1,42 +1,45 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Abdullah! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Software Engineer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Data Structures and Algorithms Practice </b>
+  - [Praciting DS & Algos in C++](https://github.com/abdullahcpplus/DSA-Practice)
+- <b>Visuals Explaination of Game of Life</b>
+  - [Visuals with Raylib](https://github.com/abdullahcpplus/Game-of-life)
+- <b>Games Project</b>
+  - [Snake Game](https://github.com/abdullahcpplus/SnakeGame)
+  - [TicTacToe game](https://github.com/abdullahcpplus/TicTacToe)
+  - [Rotating Ball](https://github.com/abdullahcpplus/Rotating-Ball)
+- <b>Commercial used Software</b>
+  - [Super Market Billing System](https://github.com/abdullahcpplus/Super-market-billing-system)
+  - [Credit Card Validator](https://github.com/abdullahcpplus/Credit-Card-Validator)
+  - [Pizza Shop Manager](https://github.com/abdullahcpplus/Pizza-shop-manager)
+  - [Simple Calculator](https://github.com/abdullahcpplus/Simplr_Calculator)
+- <b>Software with Database</b>
+  - [Profits Recorder](https://github.com/abdullahcpplus/Profits_Recorder)
+  - [Registration system](https://github.com/abdullahcpplus/Registration_System)
+- <b>Fun Projects</b>
+  - [Quick quiz](https://github.com/abdullahcpplus/Quick-Quiz)
+  - [Make house with elements](https://github.com/abdullahcpplus/Fun-with-elements)
+<h2>Skills</h2>
 
-<h2>📺 Popular YouTube Videos</h2>
+- Good Programming skills in c\c++
+- Expert in Data Structure and Algorithms
+- Know how to use version contron Git and remote repositories like Github
+- Familiar with Object-Oriented Programming(OOP)
+- Friendly with the MYSQL
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- <h2> I’m currently working on</h2>
+I’m currently working on the graphics user applications and games. Nowadays I,m  learning Raylib library
+- <h2> Connect with me:</h2>
 
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JoshMadakor | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+
+[facebook]: https://www.facebook.com/profile.php?id=61571600491176
+[linkedin]: https://www.linkedin.com/in/muhammad-abdullah-5ab666354/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
